@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj",
     },
-    "dotnet.defaultSolution": "defense.sln"
+    "dotnet.defaultSolution": "Roguelike.sln"
 }
